@@ -6,6 +6,7 @@
   
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:firstquarter88@gmail.com)](mailto:firstquarter88@gmail.com)
   [![Blog Badge](http://img.shields.io/badge/-Blog-green?style=flat-square&logo=tistory&link=https://firstquarter.tistory.com/)](https://firstquarter.tistory.com/)
+  [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCZbgw-o-kYIwYlqOWIXmH3Q)](https://www.youtube.com/channel/UCZbgw-o-kYIwYlqOWIXmH3Q)
   
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp
