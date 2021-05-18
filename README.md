@@ -1,5 +1,4 @@
 <div align = "center">
-  <br><br>
   <strong>I Can Do This All Day</strong>
   <br><br>
 
