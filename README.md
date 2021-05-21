@@ -1,4 +1,5 @@
 <div align = "center">
+  <strong>be crazy about automation</strong>
   <strong>I Can Do This All Day</strong><br><br>
   <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=firstquarter-J&show_icons=true&theme=dark) -->
   
