@@ -38,7 +38,7 @@
 
 <div align="center">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firstquarter-J&layout=compact&hide=PowerShell&langs_count=6&theme=react&card_width=390)](https://github.com/firstquarter-J/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firstquarter-J&layout=compact&hide=PowerShell&langs_count=6&theme=react&card_width=380)](https://github.com/firstquarter-J/github-readme-stats)
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=firstquarter-J&theme=react&hide=prs&count_private=true&show_icons=true&)](https://github.com/firstquarter-J/github-readme-stats)
   
 </div>
