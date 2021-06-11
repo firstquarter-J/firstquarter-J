@@ -18,3 +18,4 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp
 
 </div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firstquarter-J&layout=compact)](https://github.com/firstquarter-J/github-readme-stats)
