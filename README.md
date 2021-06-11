@@ -21,6 +21,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firstquarter-J&layout=compact&hide=PowerShell&langs_count=4&theme=dark)](https://github.com/firstquarter-J/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firstquarter-J&layout=compact&hide=PowerShell&langs_count=4&theme=react)](https://github.com/firstquarter-J/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=firstquarter-J&theme=react&hide=prs,issues&count_private=true&show_icons=true)](https://github.com/firstquarter-J/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
