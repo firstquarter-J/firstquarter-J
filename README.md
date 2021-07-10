@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/node.js-339933?style=flat&logo=node.js&logoColor=white"/>　
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>　
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/>　
-<!--   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>　 -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>　
 <!--   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/> -->
 </div>
 
