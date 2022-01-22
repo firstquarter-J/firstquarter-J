@@ -1,5 +1,5 @@
 <div align = "center">
-  <h1><strong>Be crazy about automation, I can do this all day</strong></h1><br>
+  <h1><strong>Be crazy about automation</strong></h1><br>
 </div>
 <div align = "center">
 <!--   (　) 전각문자(띄어쓰기)-->
