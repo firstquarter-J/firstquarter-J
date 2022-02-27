@@ -1,5 +1,6 @@
 <div align = "center">
-  <h1><strong>Be crazy about automation</strong></h1><br>
+<!--   <h1><strong>Be crazy about automation</strong></h1><br> -->
+  <h1><strong>know ? skill : magic</strong></h1>
 </div>
 <div align = "center">
 <!--   (　) 전각문자(띄어쓰기)-->
