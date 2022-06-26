@@ -2,6 +2,7 @@
 <!--   <h1><strong>Be crazy about automation</strong></h1><br> -->
   <h1><strong>know ? skill : magic</strong></h1>
 </div>
+
 <div align = "center">
 <!--   (　) 전각문자(띄어쓰기)-->
 
@@ -27,15 +28,15 @@
   <img src="https://img.shields.io/badge/node.js-339933?style=flat&logo=node.js&logoColor=white"/> -->
   <!--   <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=flat&logo=node-dot-js&logoColor=white"/>　 -->
 
-  
-<!--   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>　 -->
-<!--   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>　 -->
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=Go&logoColor=white"/>　
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>　
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=TypeScript&logoColor=white"/>　
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>　
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>　
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=Go&logoColor=white"/>　
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/>　
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>　
+<!--   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>　 -->
+<!--   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>　 -->
+<!--   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>　 -->
+<!--   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>　 -->
 <!--   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>　 -->
 <!--   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/> -->
 </div>
