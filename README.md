@@ -4,12 +4,13 @@
 </div>
 <div align = "center">
 <!--   (　) 전각문자(띄어쓰기)-->
-  
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffirstquarter-J&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)　
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:firstquarter88@gmail.com)](mailto:firstquarter88@gmail.com)　
-  [![Blog Badge](http://img.shields.io/badge/-Blog-green?style=flat&logo=Bloglovin&link=https://firstquarter.tistory.com/)](https://firstquarter.tistory.com/)　
-<!--   [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat&logo=youtube&link=https://www.youtube.com/channel/UCZbgw-o-kYIwYlqOWIXmH3Q)](https://www.youtube.com/channel/UCZbgw-o-kYIwYlqOWIXmH3Q) -->
 
+  [![Linkedin Badge](http://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&link=https://www.linkedin.com/in/%EC%83%81%ED%98%84-%EC%9E%A5-62a319212/)]([https://firstquarter.tistory.com/](https://www.linkedin.com/in/%EC%83%81%ED%98%84-%EC%9E%A5-62a319212/))　
+  [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat&logo=youtube&link=https://www.youtube.com/channel/UCZbgw-o-kYIwYlqOWIXmH3Q)](https://www.youtube.com/channel/UCZbgw-o-kYIwYlqOWIXmH3Q)　
+  [![Blog Badge](http://img.shields.io/badge/-Blog-green?style=flat&logo=Bloglovin&link=https://firstquarter.tistory.com/)](https://firstquarter.tistory.com/)　
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:firstquarter88@gmail.com)](mailto:firstquarter88@gmail.com)　
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffirstquarter-J&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)　
+  
 </div>
 
 <div align = "center">
