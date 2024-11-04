@@ -53,6 +53,7 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firstquarter-J&layout=compact&hide=Shell,Batchifile,PowerShell&langs_count=6&theme=react)](https://github.com/firstquarter-J/github-readme-stats)[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=firstquarter-J&theme=react&hide=prs&count_private=true&show_icons=true&)](https://github.com/firstquarter-J/github-readme-stats) -->
   
   <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=firstquarter-J&theme=react&hide=prs&count_private=true&show_icons=true&)](https://github.com/firstquarter-J/github-readme-stats) -->
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=firstquarter-J&theme=react&hide=prs&count_private=true&show_icons=true&include_all_commits=true&token=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)]
+  <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=firstquarter-J&theme=react&hide=prs&count_private=true&show_icons=true&include_all_commits=true&token=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)] -->
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=firstquarter-J&theme=react&hide=prs&count_private=true&show_icons=true&include_all_commits=true&cache_seconds=1800&token=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)
   
 </div>
