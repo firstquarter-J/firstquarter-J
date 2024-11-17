@@ -14,7 +14,7 @@
   
 </div>
 
-<div align = "center">
+<!-- <div align = "center">
 <!--   
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -30,11 +30,11 @@
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=flat&logo=node-dot-js&logoColor=white"/>
 -->
 
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=TypeScript&logoColor=white"/>　
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>　
+  <!-- <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=TypeScript&logoColor=white"/>　-->
+  <!-- <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>　 -->
   <!-- <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=Go&logoColor=white"/>　-->
-  <img src="https://img.shields.io/badge/AWS-E47911?style=flat&logo=Amazon%20AWS&logoColor=white"/>　
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>　
+  <!-- <img src="https://img.shields.io/badge/AWS-E47911?style=flat&logo=Amazon%20AWS&logoColor=white"/>　-->
+  <!-- <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>　-->
 
 <!--  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/>　-->
 <!--   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>　 -->
@@ -43,17 +43,17 @@
 <!--   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>　 -->
 <!--   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>　 -->
 <!--   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/> -->
-</div>
+</div> -->
 
-<br>
+<!-- <br> -->
 
-<div align="center">
+<!-- <div align="center"> -->
 <!-- <div> -->
   
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firstquarter-J&layout=compact&hide=Shell,Batchifile,PowerShell&langs_count=6&theme=react)](https://github.com/firstquarter-J/github-readme-stats)[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=firstquarter-J&theme=react&hide=prs&count_private=true&show_icons=true&)](https://github.com/firstquarter-J/github-readme-stats) -->
   
   <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=firstquarter-J&theme=react&hide=prs&count_private=true&show_icons=true&)](https://github.com/firstquarter-J/github-readme-stats) -->
   <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=firstquarter-J&theme=react&hide=prs&count_private=true&show_icons=true&include_all_commits=true&token=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)] -->
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=firstquarter-J&theme=react&hide=prs&count_private=true&show_icons=true&include_all_commits=true&cache_seconds=1800&token=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)
+  <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=firstquarter-J&theme=react&hide=prs&count_private=true&show_icons=true&include_all_commits=true&cache_seconds=1800&token=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) -->
   
-</div>
+<!-- </div> -->
