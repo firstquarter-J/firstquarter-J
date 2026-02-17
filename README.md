@@ -4,8 +4,8 @@
 
 **I don't fix problems. I own them.**
 
-> Engineer who thinks in systems, works end-to-end,
-> and builds things that outlast their creator.
+Engineer who thinks in systems, works end-to-end,
+and builds things that outlast their creator.
 
 ---
 
