@@ -9,9 +9,4 @@
 
 ---
 
-[![LinkedIn](http://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%83%81%ED%98%84-%EC%9E%A5-0a0932254/)
-[![Blog](http://img.shields.io/badge/-Blog-20C997?style=flat&logo=Bloglovin&logoColor=white)](https://firstquarter.tistory.com/)
-[![YouTube](https://img.shields.io/badge/-YouTube-C4302B?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCZbgw-o-kYIwYlqOWIXmH3Q)
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:firstquarter.jang@gmail.com)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/0.000000E+00C
